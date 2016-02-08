@@ -31,22 +31,22 @@ COURSE OUTLINE
 ==============
 Each class will be an engaging, interactive session where we build tools together to make predictions about our data. The classes will be focused on actually building the predictive tools; however, each class will have supplementary lecture notes that describe the methodologies in further detail and extra programming tasks if anyone wants extra practice.
 
-Class 1: Introduction + Python Basics
+Class 1: Introduction + Python Basics:
 In this session we will go over some of the fundamental functions, packages, and libraries that we will use. We will also train our first model and make our first prediction using statistical analysis.
 
-Class 2: Machine Learning 101 + Model Evaluation
+Class 2: Machine Learning 101 + Model Evaluation:
 In this session we will focus on how to set up a machine learning infrastructure and build our first models! We will also apply quantifiable metrics to evaluate the efficacy of our models.
 
-Class 3: Deep Learning
-In this session we will apply elements of deep learning to our prediction toolbelt. This includes constructing a deep learning architecture and applying it to a 
+Class 3: Deep Learning + Cloud Computing:
+In this session we will apply elements of deep learning to our prediction toolbelt. This includes constructing a deep learning architecture and applying it to a a large-scale problem using a cloud computing instance.
 
-Class 4: Health + Data
+Class 4: Health + Data:
 In this session we will introduce some more advanced machine learning models and utilize our knowledge learned in the previous 3 courses to make predictions about health-based data.
 
-Class 5: Business + Data
+Class 5: Business + Data:
 In this session we will learn about "deeper" layers of deep learning and apply them to make predictions about a company's customer acquisition strategy. 
 
-Class 6: Politics + Data
+Class 6: Politics + Data:
 In this session we will a lot of the techniques we have learned to make predictions about our very own Baltimore mayoral race.
 
 
