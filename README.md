@@ -18,9 +18,13 @@ PREREQUISITES
 =============
 
 1) Basic understanding of command line operations
+
 2) A GitHub account (www.github.com)
+
 3) Python installed on your local machine and a working knowledge of Python (2.7+)
+
 4) Understanding of fundamental statistical concepts
+
 5) Ability to think like a data-driven problem solver
 
 COURSE OUTLINE
