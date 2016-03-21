@@ -35,6 +35,7 @@ Class 1: Introduction + Python Basics + Intro to ML:
 ======================================
 
 Class intro: [slides](https://github.com/HunterUSF/BetamoreDS/blob/master/DS_courseintro.pdf)
+
 Git intro (from my friend Sinan): [slides](https://github.com/HunterUSF/BetamoreDS/blob/master/gitintro.pdf)
 
 A Little Python refresher: [code](https://github.com/HunterUSF/BetamoreDS/blob/master/pythonbasics.py)
