@@ -3,11 +3,6 @@
 COURSE DESCRIPTION
 ===============
 
-Building a data science toolbelt to learn from and make predictions about real-life data.
-
-Updates: www.github.com/hunterusf/BetamoreDS
-======================
-
 Predictive analytics were first put to use at a large scale in the banking industry. "Quants" were predicting future stock prices based off of patterns deciphered by parsing through historical records of the behavior of the stocks. In today's world, predictive analytics are ubiquitous in not only the banking industry, but also healthcare, business, and politics amongst many others. 
 
 In this course, we will build tools to learn from data organized from real-life events to make predictions about what the future might hold. We will utilize tools in feature extraction, machine learning and deep learning to make inferences about the very world that we live in. 
@@ -36,9 +31,11 @@ Class 1: Introduction + Python Basics + Intro to ML:
 
 Class intro: [slides](https://github.com/HunterUSF/BetamoreDS/blob/master/DS_courseintro.pdf)
 
-Git intro (from my friend Sinan): [slides](https://github.com/HunterUSF/BetamoreDS/blob/master/gitintro.pdf)
+Class 1 Notes: 
 
 A Little Python refresher: [code](https://github.com/HunterUSF/BetamoreDS/blob/master/pythonbasics.py)
+
+
 
 
 Class 2: Machine Learning 101 + Model Evaluation:
