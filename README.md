@@ -31,8 +31,14 @@ COURSE OUTLINE
 ==============
 Each class will be an engaging, interactive session where we build tools together to make predictions about our data. The classes will be focused on actually building the predictive tools; however, each class will have supplementary lecture notes that describe the methodologies in further detail and extra programming tasks if anyone wants extra practice.
 
-Class 1: Introduction + Python Basics:
-In this session we will go over some of the fundamental functions, packages, and libraries that we will use. We will also train our first model and make our first prediction using statistical analysis.
+Class 1: Introduction + Python Basics + Intro to ML:
+======================================
+
+Class intro: [slides](https://github.com/HunterUSF/BetamoreDS/blob/master/DS_courseintro.pdf)
+Git intro (from my friend Sinan): [slides](https://github.com/HunterUSF/BetamoreDS/blob/master/gitintro.pdf)
+
+A Little Python refresher: [code](https://github.com/HunterUSF/BetamoreDS/blob/master/pythonbasics.py)
+
 
 Class 2: Machine Learning 101 + Model Evaluation:
 In this session we will focus on how to set up a machine learning infrastructure and build our first models! We will also apply quantifiable metrics to evaluate the efficacy of our models.
