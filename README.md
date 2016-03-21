@@ -37,13 +37,15 @@ A lil Python refresher: [code](https://github.com/HunterUSF/BetamoreDS/blob/mast
 
 A lil Numpy refresher: [code](https://github.com/HunterUSF/BetamoreDS/blob/master/numpybasics.py)
 
-First shot at working with data: [Iris work](https://github.com/HunterUSF/BetamoreDS/blob/master/iris_work.py)
+First shot at working with data: [code](https://github.com/HunterUSF/BetamoreDS/blob/master/iris_work.py)
 
-Build our own knn: [Knn code](https://github.com/HunterUSF/BetamoreDS/blob/master/knn.py)
+Build our own knn: [code](https://github.com/HunterUSF/BetamoreDS/blob/master/knn.py)
 
 In-depth machine learning (especially section 2.1): [here](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Sixth%20Printing.pdf)
 
-Excellent article on the [Bias-variance tradeoff](http://scott.fortmann-roe.com/docs/BiasVariance.html)
+Excellent article on the [Bias-variance tradeoff](http://scott.fortmann-roe.com/docs/BiasVariance.html) and Andrew Ng's [course](http://cs229.stanford.edu/materials.html) on Machine learning taught at Stanford
+
+The UCI ML [repo](http://archive.ics.uci.edu/ml/) containing data sets for practice 
 
 
 
