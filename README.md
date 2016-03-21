@@ -24,6 +24,8 @@ This course is about streamlining the thought process used by data scientists an
 
 Each class will be an engaging, interactive session where we build tools together to make predictions about our data. The classes will be focused on actually building the predictive tools; however, each class will have supplementary lecture notes that describe the methodologies in further detail and extra programming tasks if anyone wants extra practice.
 
+We held the info session on 3/16 at Spark Baltimore, if you missed it, you can find details about the course [here](https://github.com/HunterUSF/BetamoreDS/blob/master/DS_infosesh.pdf)
+
 Class 1: Intro DS + Python Basics + Intro ML:
 ======================================
 
