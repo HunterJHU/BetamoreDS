@@ -37,13 +37,18 @@ A lil Python refresher: [code](https://github.com/HunterUSF/BetamoreDS/blob/mast
 
 A lil Numpy refresher: [code](https://github.com/HunterUSF/BetamoreDS/blob/master/numpybasics.py)
 
+First shot at working with data: [Iris work](https://github.com/HunterUSF/BetamoreDS/blob/master/iris_work.py)
 
+Build our own knn: [Knn code](https://github.com/HunterUSF/BetamoreDS/blob/master/knn.py)
 
+In-depth machine learning (especially section 2.1): [here](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Sixth%20Printing.pdf)
 
+Excellent article on the [Bias-variance tradeoff](http://scott.fortmann-roe.com/docs/BiasVariance.html)
 
 
 
 Class 2: Machine Learning 101 + Model Evaluation:
+=================================================
 In this session we will focus on how to set up a machine learning infrastructure and build our first models! We will also apply quantifiable metrics to evaluate the efficacy of our models.
 
 Class 3: Deep Learning + Cloud Computing:
