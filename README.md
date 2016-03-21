@@ -31,9 +31,14 @@ Class 1: Introduction + Python Basics + Intro to ML:
 
 Class intro: [slides](https://github.com/HunterUSF/BetamoreDS/blob/master/DS_courseintro.pdf)
 
-Class 1 Notes: 
+Class 1 Notes: [slides](https://github.com/HunterUSF/BetamoreDS/blob/master/DS_lecture1.pdf)
 
-A Little Python refresher: [code](https://github.com/HunterUSF/BetamoreDS/blob/master/pythonbasics.py)
+A lil Python refresher: [code](https://github.com/HunterUSF/BetamoreDS/blob/master/pythonbasics.py)
+
+A lil Numpy refresher: [code](https://github.com/HunterUSF/BetamoreDS/blob/master/numpybasics.py)
+
+
+
 
 
 
