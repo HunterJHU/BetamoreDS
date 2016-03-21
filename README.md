@@ -26,7 +26,7 @@ COURSE OUTLINE
 ==============
 Each class will be an engaging, interactive session where we build tools together to make predictions about our data. The classes will be focused on actually building the predictive tools; however, each class will have supplementary lecture notes that describe the methodologies in further detail and extra programming tasks if anyone wants extra practice.
 
-Class 1: Introduction + Python Basics + Intro to ML:
+Class 1: Intro DS + Python Basics + Intro ML:
 ======================================
 
 Class intro: [slides](https://github.com/HunterUSF/BetamoreDS/blob/master/DS_courseintro.pdf)
