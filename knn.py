@@ -8,6 +8,7 @@ import numpy as np
 '''
 Part 1: Setting it all up
 '''
+HUNTER ROCKS!!!
 
 # we will need a euclidean_distance_algorithm that takes in
 # two numpy arrays, and calculates the 
