@@ -4,7 +4,7 @@
 
 Hunter Jackson
 *	Cofounder of [Proscia](www.proscia.com)
-*	Ph.D. Candidate in Mathematics at [Hopkins](www.mathematics.jhu.edu)
+*	Ph.D. Candidate in Mathematics at [Hopkins](www.math.jhu.edu)
 
 ***COURSE DESCRIPTION***
 
