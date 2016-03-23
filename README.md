@@ -67,26 +67,3 @@ Class 2: Machine Learning 101 + Model Evaluation:
 
 
 
-
-
-
-
-
-
-Class 3: Unsupervised Learning + Computing Infrastructures:
-==========================================================
-
-In this session we will apply elements of deep learning to our prediction toolbelt. This includes constructing a deep learning architecture and applying it to a a large-scale problem using a cloud computing instance.
-
-Class 4: Health + Data:
-In this session we will introduce some more advanced machine learning models and utilize our knowledge learned in the previous 3 courses to make predictions about health-based data.
-
-Class 5: Business + Data:
-In this session we will learn about "deeper" layers of deep learning and apply them to make predictions about a company's customer acquisition strategy. 
-
-Class 6: Politics + Data:
-In this session we will a lot of the techniques we have learned to make predictions about our very own Baltimore mayoral race.
-
-
-
-
