@@ -13,7 +13,7 @@ Each class will be an engaging, interactive session where we build tools togethe
 We held the info session on 3/16 at Spark Baltimore, if you missed it, you can find details about the course [here](https://github.com/HunterUSF/BetamoreDS/blob/master/lecturenotes/DS_infosesh.pdf)
 
 Class 1: Intro DS + Python Basics + Intro ML:
-======================================
+=============================================
 
 *	Class intro: [slides](https://github.com/HunterUSF/BetamoreDS/blob/master/lecturenotes/DS_courseintro.pdf)
 *	Class 1 Notes: [slides](https://github.com/HunterUSF/BetamoreDS/blob/master/lecturenotes/DS_lecture1.pdf)
