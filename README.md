@@ -3,8 +3,8 @@
 ***INSTRUCTOR***
 
 Hunter Jackson
-*	Cofounder of [Proscia](www.proscia.com)
-*	Ph.D. Candidate in Mathematics at [Hopkins](www.math.jhu.edu)
+*	Cofounder of [Proscia](https://www.proscia.com)
+*	Ph.D. Candidate in Mathematics at [Hopkins](https://www.math.jhu.edu)
 
 ***COURSE DESCRIPTION***
 
