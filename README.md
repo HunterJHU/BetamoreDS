@@ -6,26 +6,6 @@ Hunter Jackson
 *	Cofounder of [Proscia](https://www.proscia.com)
 *	Ph.D. Candidate in Mathematics at [Hopkins](https://www.math.jhu.edu)
 
-***COURSE DESCRIPTION***
-
-Predictive analytics were first put to use at a large scale in the banking industry. "Quants" were predicting future stock prices based off of patterns deciphered by parsing through historical records of the behavior of the stocks. In today's world, predictive analytics are ubiquitous in not only the banking industry, but also healthcare, business, and politics amongst many others. 
-
-In this course, we will build tools to learn from data organized from real-life events to make predictions about what the future might hold. We will utilize tools in feature extraction, machine learning and deep learning to make inferences about the very world that we live in. 
-
-This course is about streamlining the thought process used by data scientists and utilizing methodologies of data science to build real tools that could be applied in a number of industries. By the end of this course, you will be able to collect, organize, and learn from data generated in today's world and catalyze a new way of thinking about problem solving.
-
-***PREREQUISITES***
-
-1) Basic understanding of command line operations
-
-2) A GitHub account (www.github.com)
-
-3) Python installed on your local machine and a working knowledge of Python (2.7+)
-
-4) Understanding of fundamental statistical concepts
-
-5) Ability to think like a data-driven problem solver
-
 ***COURSE OUTLINE***
 
 Each class will be an engaging, interactive session where we build tools together to make predictions about our data. The classes will be focused on actually building the predictive tools; however, each class will have supplementary lecture notes that describe the methodologies in further detail and extra programming tasks if anyone wants extra practice.
