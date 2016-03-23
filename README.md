@@ -48,10 +48,12 @@ Excellent article on the [Bias-variance tradeoff](http://scott.fortmann-roe.com/
 The UCI ML [repo](http://archive.ics.uci.edu/ml/) containing data sets for practice 
 
 
-
 Class 2: Machine Learning 101 + Model Evaluation:
 =================================================
-In this session we will focus on how to set up a machine learning infrastructure and build our first models! We will also apply quantifiable metrics to evaluate the efficacy of our models.
+
+Class 2 Notes: [slides](https://github.com/HunterUSF/BetamoreDS/blob/master/DS_Lecture2.pdf)
+
+
 
 Class 3: Deep Learning + Cloud Computing:
 In this session we will apply elements of deep learning to our prediction toolbelt. This includes constructing a deep learning architecture and applying it to a a large-scale problem using a cloud computing instance.
