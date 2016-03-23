@@ -54,8 +54,8 @@ Class 2: Machine Learning 101 + Model Evaluation:
 *	Linear Regression [notes](https://github.com/HunterUSF/BetamoreDS/blob/master/linear_regression.ipynb)
 *	Logistic Regression [notes](https://github.com/HunterUSF/BetamoreDS/blob/master/logistic_regression.ipynb)
 *	Decision Trees [notes](https://github.com/HunterUSF/BetamoreDS/blob/master/decision_trees.ipynb)
-	*	Javascript tree [layout](http://bl.ocks.org/mbostock/4339184)
 
+*	Javascript tree [layout](http://bl.ocks.org/mbostock/4339184)
 *	Ensemble Learning [notes](https://github.com/HunterUSF/BetamoreDS/blob/master/ensembling.ipynb)
 *	Caltech's ML course explaining bias-variance [tradeoff](http://work.caltech.edu/library/081.html)
 *	Sensitivity v. Specificity [video](https://www.youtube.com/watch?v=vtYDyGGeQyo)
