@@ -2,7 +2,9 @@
 
 ***INSTRUCTOR***
 
-Hunter Jackson, cofounder of [Proscia](www.proscia.com), Ph.D. Candidate in Mathematics at [Hopkins](www.mathematics.jhu.edu)
+Hunter Jackson
+*	Cofounder of [Proscia](www.proscia.com)
+*	Ph.D. Candidate in Mathematics at [Hopkins](www.mathematics.jhu.edu)
 
 ***COURSE DESCRIPTION***
 
@@ -47,9 +49,25 @@ Class 1: Intro DS + Python Basics + Intro ML:
 Class 2: Machine Learning 101 + Model Evaluation:
 =================================================
 
-Class 2 Notes: [slides](https://github.com/HunterUSF/BetamoreDS/blob/master/DS_Lecture2.pdf)
+*	Class 2 Notes: [slides](https://github.com/HunterUSF/BetamoreDS/blob/master/DS_Lecture2.pdf)
+*	Sci-kit learn docs: [user guide](http://scikit-learn.org/stable/modules/neighbors.html), [module reference](http://scikit-learn.org/stable/modules/classes.html#module-sklearn.neighbors), [class documentation](http://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html)
+*	Linear Regression [notes](https://github.com/HunterUSF/BetamoreDS/blob/master/linear_regression.ipynb)
+*	Logistic Regression [notes](https://github.com/HunterUSF/BetamoreDS/blob/master/logistic_regression.ipynb)
+*	Decision Trees [notes](https://github.com/HunterUSF/BetamoreDS/blob/master/decision_trees.ipynb)
+	*	Javascript tree [layout](http://bl.ocks.org/mbostock/4339184)
+*	Ensemble Learning [notes](https://github.com/HunterUSF/BetamoreDS/blob/master/ensembling.ipynb)
 
-Sci-kit learn docs: [user guide](http://scikit-learn.org/stable/modules/neighbors.html), [module reference](http://scikit-learn.org/stable/modules/classes.html#module-sklearn.neighbors), [class documentation](http://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html)
+*	Caltech's ML course explaining bias-variance [tradeoff](http://work.caltech.edu/library/081.html)
+*	Sensitivity v. Specificity [video](https://www.youtube.com/watch?v=vtYDyGGeQyo)
+*	30 second explanation of overfitting [video](https://www.quora.com/What-is-an-intuitive-explanation-of-overfitting/answer/Jessica-Su)
+
+*	Take home [project](https://github.com/HunterUSF/BetamoreDS/blob/master/titanic.md)
+
+
+
+
+
+
 
 
 
