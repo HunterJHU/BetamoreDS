@@ -15,8 +15,8 @@ We held the info session on 3/16 at Spark Baltimore, if you missed it, you can f
 Class 1: Intro DS + Python Basics + Intro ML:
 ======================================
 
-*	Class intro: [slides](https://github.com/HunterUSF/BetamoreDS/blob/master/DS_courseintro.pdf)
-*	Class 1 Notes: [slides](https://github.com/HunterUSF/BetamoreDS/blob/master/DS_lecture1.pdf)
+*	Class intro: [slides](https://github.com/HunterUSF/BetamoreDS/lecturenotes/blob/master/DS_courseintro.pdf)
+*	Class 1 Notes: [slides](https://github.com/HunterUSF/BetamoreDS/lecturenotes/blob/master/DS_lecture1.pdf)
 *	A lil Python refresher: [code](https://github.com/HunterUSF/BetamoreDS/blob/master/pythonbasics.py)
 *	A lil Numpy refresher: [code](https://github.com/HunterUSF/BetamoreDS/blob/master/numpybasics.py)
 *	First shot at working with data: [code](https://github.com/HunterUSF/BetamoreDS/blob/master/iris_work.py)
@@ -29,7 +29,7 @@ Class 1: Intro DS + Python Basics + Intro ML:
 Class 2: Machine Learning 101 + Model Evaluation:
 =================================================
 
-*	Class 2 Notes: [slides](https://github.com/HunterUSF/BetamoreDS/blob/master/DS_Lecture2.pdf)
+*	Class 2 Notes: [slides](https://github.com/HunterUSF/BetamoreDS/lecturenotes/blob/master/DS_Lecture2.pdf)
 *	Sci-kit learn docs: [user guide](http://scikit-learn.org/stable/modules/neighbors.html), [module reference](http://scikit-learn.org/stable/modules/classes.html#module-sklearn.neighbors), [class documentation](http://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html)
 *	Linear Regression [notes](https://github.com/HunterUSF/BetamoreDS/blob/master/linear_regression.ipynb)
 *	Logistic Regression [notes](https://github.com/HunterUSF/BetamoreDS/blob/master/logistic_regression.ipynb)
