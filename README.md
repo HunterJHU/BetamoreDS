@@ -1,5 +1,9 @@
 # Betamore: Applications of Data Science
 
+***INSTRUCTOR***
+
+Hunter Jackson, cofounder of [Proscia](www.proscia.com), Ph.D. Candidate in Mathematics at [Hopkins](www.mathematics.jhu.edu)
+
 ***COURSE DESCRIPTION***
 
 Predictive analytics were first put to use at a large scale in the banking industry. "Quants" were predicting future stock prices based off of patterns deciphered by parsing through historical records of the behavior of the stocks. In today's world, predictive analytics are ubiquitous in not only the banking industry, but also healthcare, business, and politics amongst many others. 
@@ -29,23 +33,15 @@ We held the info session on 3/16 at Spark Baltimore, if you missed it, you can f
 Class 1: Intro DS + Python Basics + Intro ML:
 ======================================
 
-Class intro: [slides](https://github.com/HunterUSF/BetamoreDS/blob/master/DS_courseintro.pdf)
-
-Class 1 Notes: [slides](https://github.com/HunterUSF/BetamoreDS/blob/master/DS_lecture1.pdf)
-
-A lil Python refresher: [code](https://github.com/HunterUSF/BetamoreDS/blob/master/pythonbasics.py)
-
-A lil Numpy refresher: [code](https://github.com/HunterUSF/BetamoreDS/blob/master/numpybasics.py)
-
-First shot at working with data: [code](https://github.com/HunterUSF/BetamoreDS/blob/master/iris_work.py)
-
-Build our own knn: [code](https://github.com/HunterUSF/BetamoreDS/blob/master/knn.py)
-
-In-depth machine learning (especially section 2.1): [here](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Sixth%20Printing.pdf)
-
-Excellent article on the [Bias-variance tradeoff](http://scott.fortmann-roe.com/docs/BiasVariance.html) and Andrew Ng's [course](http://cs229.stanford.edu/materials.html) on Machine learning taught at Stanford
-
-The UCI ML [repo](http://archive.ics.uci.edu/ml/) containing data sets for practice 
+*	Class intro: [slides](https://github.com/HunterUSF/BetamoreDS/blob/master/DS_courseintro.pdf)
+*	Class 1 Notes: [slides](https://github.com/HunterUSF/BetamoreDS/blob/master/DS_lecture1.pdf)
+*	A lil Python refresher: [code](https://github.com/HunterUSF/BetamoreDS/blob/master/pythonbasics.py)
+*	A lil Numpy refresher: [code](https://github.com/HunterUSF/BetamoreDS/blob/master/numpybasics.py)
+*	First shot at working with data: [code](https://github.com/HunterUSF/BetamoreDS/blob/master/iris_work.py)
+*	Build our own knn: [code](https://github.com/HunterUSF/BetamoreDS/blob/master/knn.py)
+*	In-depth machine learning (especially section 2.1): [here](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Sixth%20Printing.pdf)
+*	Excellent article on the [Bias-variance tradeoff](http://scott.fortmann-roe.com/docs/BiasVariance.html) and Andrew Ng's [course](http://cs229.stanford.edu/materials.html) on Machine learning taught at Stanford
+*	The UCI ML [repo](http://archive.ics.uci.edu/ml/) containing data sets for practice 
 
 
 Class 2: Machine Learning 101 + Model Evaluation:
@@ -53,9 +49,17 @@ Class 2: Machine Learning 101 + Model Evaluation:
 
 Class 2 Notes: [slides](https://github.com/HunterUSF/BetamoreDS/blob/master/DS_Lecture2.pdf)
 
+Sci-kit learn docs: [user guide](http://scikit-learn.org/stable/modules/neighbors.html), [module reference](http://scikit-learn.org/stable/modules/classes.html#module-sklearn.neighbors), [class documentation](http://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html)
 
 
-Class 3: Deep Learning + Cloud Computing:
+
+
+
+
+
+Class 3: Unsupervised Learning + Computing Infrastructures:
+==========================================================
+
 In this session we will apply elements of deep learning to our prediction toolbelt. This includes constructing a deep learning architecture and applying it to a a large-scale problem using a cloud computing instance.
 
 Class 4: Health + Data:
