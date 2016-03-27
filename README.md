@@ -42,6 +42,24 @@ Class 2: Machine Learning 101 + Model Evaluation:
 *	Take home [project](https://github.com/HunterUSF/BetamoreDS/blob/master/titanic.md)
 
 
+Class 3: Topics in Unsupervised Learning Pt. 1:
+===============================================
+*	Class 3 Notes: [slides](https://github.com/HunterUSF/BetamoreDS/blob/master/lecturenotes/DS_lecture3.pdf)
+*	Cluster analysis [reading](http://www-users.cs.umn.edu/~kumar/dmbook/ch8.pdf)
+*	Sklearn [guidance](http://scikit-learn.org/stable/modules/clustering.html) on clustering
+
+
+
+Class 4: Topics in Unsupervised Learning Pt. 2:
+===============================================
+*	Class 4 Notes: [slides](https://github.com/HunterUSF/BetamoreDS/blob/master/lecturenotes/DS_lecture4.pdf)
+
+
+
+
+
+
+
 
 
 
