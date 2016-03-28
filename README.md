@@ -24,6 +24,7 @@ Class 1: Intro DS + Python Basics + Intro ML:
 *	In-depth machine learning (especially section 2.1): [here](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Sixth%20Printing.pdf)
 *	Excellent article on the [Bias-variance tradeoff](http://scott.fortmann-roe.com/docs/BiasVariance.html) and Andrew Ng's [course](http://cs229.stanford.edu/materials.html) on Machine learning taught at Stanford
 *	The UCI ML [repo](http://archive.ics.uci.edu/ml/) containing data sets for practice 
+*	Conditional probability [explained](http://setosa.io/ev/conditional-probability/) visually. Check it our and play around -- it will help a ton for the next class.
 
 
 Class 2: Machine Learning 101 + Model Evaluation:
