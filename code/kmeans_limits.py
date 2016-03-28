@@ -1,9 +1,6 @@
 
 '''
 NOTES ON LIMITATIONS OF K-MEANS CLUSTERING
-Adapted from Bart Baddely's 2014 PyData Presentation:
-http://nbviewer.ipython.org/github/BartBaddeley/PyDataTalk-2014/blob/master/PyDataTalk.ipynb
-Agenda: 
 1) K-means might not work when dimensions have different scales
 2) K-means might not work for non-spherical shapes
 3) K-means might not work for clusters of different sizes
