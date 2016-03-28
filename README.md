@@ -39,15 +39,18 @@ Class 2: Machine Learning 101 + Model Evaluation:
 *	Caltech's ML course explaining bias-variance [tradeoff](http://work.caltech.edu/library/081.html)
 *	Sensitivity v. Specificity [video](https://www.youtube.com/watch?v=vtYDyGGeQyo)
 *	30 second explanation of overfitting [video](https://www.quora.com/What-is-an-intuitive-explanation-of-overfitting/answer/Jessica-Su)
-*	Take home [project](https://github.com/HunterUSF/BetamoreDS/blob/master/titanic.md)
+*	Take home [project](https://github.com/HunterUSF/BetamoreDS/blob/master/projects/titanic.md) and [solutions](https://github.com/HunterUSF/BetamoreDS/blob/master/code/titanic_solutions.py) for predicting survival on the Titanic.
 
 
 Class 3: Topics in Unsupervised Learning Pt. 1:
 ===============================================
 *	Class 3 Notes: [slides](https://github.com/HunterUSF/BetamoreDS/blob/master/lecturenotes/DS_lecture3.pdf)
+*	Cluster analysis [code](https://github.com/HunterUSF/BetamoreDS/blob/master/code/clusteranalysis.py)
 *	Cluster analysis [reading](http://www-users.cs.umn.edu/~kumar/dmbook/ch8.pdf)
+* 	Limitations of k-means clustering [code](https://github.com/HunterUSF/BetamoreDS/blob/master/code/kmeans_limits.py)
 *	Sklearn [guidance](http://scikit-learn.org/stable/modules/clustering.html) on clustering
-
+*	Using pandora data to find user clustering with this [data](https://github.com/HunterUSF/BetamoreDS/blob/master/data/pandora.csv) and this [code](https://github.com/HunterUSF/BetamoreDS/blob/master/code/pandora.py)
+* ***Stock Predictions*** [project](https://github.com/HunterUSF/BetamoreDS/blob/master/projects/ZYX_stocks.pdf) using 7 months of [data](https://github.com/HunterUSF/BetamoreDS/blob/master/data/ZYX_prices.csv) including twitter sentiment, volume, and stock price to create a predictive model to predict forward returns.
 
 
 Class 4: Topics in Unsupervised Learning Pt. 2:
