@@ -51,6 +51,7 @@ Class 3: Topics in Unsupervised Learning Pt. 1:
 * 	Limitations of k-means clustering [code](https://github.com/HunterUSF/BetamoreDS/blob/master/code/kmeans_limits.py)
 *	Sklearn [guidance](http://scikit-learn.org/stable/modules/clustering.html) on clustering
 *	Using pandora data to find user clustering with this [data](https://github.com/HunterUSF/BetamoreDS/blob/master/data/pandora.csv) and this [code](https://github.com/HunterUSF/BetamoreDS/blob/master/code/pandora.py)
+*	Twitter sentiment [visualization](https://www.csc.ncsu.edu/faculty/healey/tweet_viz/tweet_app/)
 * ***Stock Predictions*** [project](https://github.com/HunterUSF/BetamoreDS/blob/master/projects/ZYX_stocks.pdf) using 7 months of [data](https://github.com/HunterUSF/BetamoreDS/blob/master/data/ZYX_prices.csv) including twitter sentiment, volume, and stock price to create a predictive model to predict forward returns.
 *	Eigenvalues and vectors [explained](http://setosa.io/ev/eigenvectors-and-eigenvalues/) visually. Check it out and play around -- it will help a ton for the next class.
 
@@ -59,6 +60,7 @@ Class 3: Topics in Unsupervised Learning Pt. 1:
 Class 4: Topics in Unsupervised Learning Pt. 2:
 ===============================================
 *	Class 4 Notes: [slides](https://github.com/HunterUSF/BetamoreDS/blob/master/lecturenotes/DS_lecture4.pdf)
+*	PCA visually [explained](http://setosa.io/ev/principal-component-analysis/)
 
 
 
