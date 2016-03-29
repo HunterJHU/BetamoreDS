@@ -60,7 +60,11 @@ Class 3: Topics in Unsupervised Learning Pt. 1:
 Class 4: Topics in Unsupervised Learning Pt. 2:
 ===============================================
 *	Class 4 Notes: [slides](https://github.com/HunterUSF/BetamoreDS/blob/master/lecturenotes/DS_lecture4.pdf)
+*	PCA for Iris data [code](https://github.com/HunterUSF/BetamoreDS/blob/master/code/iris_pca.py)
+*	Setting up PCA [code](https://github.com/HunterUSF/BetamoreDS/blob/master/code/pca_math.py)
 *	PCA visually [explained](http://setosa.io/ev/principal-component-analysis/)
+*	PCA step-by-step [here](http://sebastianraschka.com/Articles/2014_pca_step_by_step.html)
+
 
 
 
