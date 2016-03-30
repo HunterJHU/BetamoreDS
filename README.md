@@ -79,7 +79,7 @@ Class 4: Topics in Unsupervised Learning Pt. 2 + Databases Pt. 1:
 Class 5: Natural Language Processing + Databases Pt. 2:
 =======================================================
 *	SQL [notebook](https://github.com/HunterUSF/BetamoreDS/blob/master/notebooks/sql.ipynb)
-*	NoSQL/MapReduce [notebook])(https://github.com/HunterUSF/BetamoreDS/blob/master/notebooks/nosql.ipynb)
+*	NoSQL/MapReduce [notebook](https://github.com/HunterUSF/BetamoreDS/blob/master/notebooks/nosql.ipynb)
 *	Here's a [reading](https://github.com/HunterUSF/BetamoreDS/blob/master/projects/planforspam.md) by PaulGraham, cofounder of Y-combinator.
 
 
