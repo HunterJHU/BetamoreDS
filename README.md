@@ -57,17 +57,34 @@ Class 3: Topics in Unsupervised Learning Pt. 1:
 
 
 
-Class 4: Topics in Unsupervised Learning Pt. 2:
-===============================================
+Class 4: Topics in Unsupervised Learning Pt. 2 + Databases Pt. 1:
+=================================================================
 *	Class 4 Notes: [slides](https://github.com/HunterUSF/BetamoreDS/blob/master/lecturenotes/DS_lecture4.pdf)
 *	Principal component analysis for Iris [code](https://github.com/HunterUSF/BetamoreDS/blob/master/code/iris_pca.py)
 *	Setting up PCA [code](https://github.com/HunterUSF/BetamoreDS/blob/master/code/pca_math.py)
+*	Dimensionality reduction [notebook](https://github.com/HunterUSF/BetamoreDS/blob/master/notebooks/pca.ipynb)
 *	PCA visually [explained](http://setosa.io/ev/principal-component-analysis/)
 *	PCA step-by-step [here](http://sebastianraschka.com/Articles/2014_pca_step_by_step.html)
 *	Linear discriminant analysis [explained](http://spartanideas.msu.edu/2014/08/03/linear-discriminant-analysis-bit-by-bit/)
 *	Map-reduce [code](https://github.com/HunterUSF/BetamoreDS/blob/master/code/mapreduce.py)
+*	What every data scientist needs to know about [SQL](http://joshualande.com/data-science-sql/)
+*	Stanford [mini-series](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about) on databases
+*	Practice SQL from [browser](http://www.w3schools.com/sql/trysql.asp?filename=trysql_select_all)
+*	Queries [explained](http://www.sqlite.org/queryplanner.html)
+*	Work with databases in the context of machine learning [code](https://github.com/HunterUSF/BetamoreDS/blob/master/code/db_practice.py), [solutions](https://github.com/HunterUSF/BetamoreDS/blob/master/code/db_solutions.py)
+
+
+
+
+Class 5: Natural Language Processing + Databases Pt. 2:
+=======================================================
+*	SQL [notebook](https://github.com/HunterUSF/BetamoreDS/blob/master/notebooks/sql.ipynb)
+*	NoSQL/MapReduce [notebook])(https://github.com/HunterUSF/BetamoreDS/blob/master/notebooks/nosql.ipynb)
 *	Here's a [reading](https://github.com/HunterUSF/BetamoreDS/blob/master/projects/planforspam.md) by PaulGraham, cofounder of Y-combinator.
 
+
+Class 6: Neural Networks + Recommendation Engines:
+==================================================
 
 
 
