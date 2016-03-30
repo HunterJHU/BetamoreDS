@@ -10,6 +10,8 @@ Hunter Jackson
 
 Each class will be an engaging, interactive session where we build tools together to make predictions about our data. The classes will be focused on actually building the predictive tools; however, each class will have supplementary lecture notes that describe the methodologies in further detail and extra programming tasks if anyone wants extra practice.
 
+I will be available at the [Proscia](https://www.proscia.com) office in Spark (Suite 300) 1 hour before each course (5 pm), and available intermittently throughout the week in the Data Science channel of Betamore Academy on Slack. 
+
 We held the info session on 3/16 at Spark Baltimore, if you missed it, you can find details about the course [here](https://github.com/HunterUSF/BetamoreDS/blob/master/lecturenotes/DS_infosesh.pdf)
 
 Class 1: Intro DS + Python Basics + Intro ML:
