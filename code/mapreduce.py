@@ -1,11 +1,8 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Feb 18
-@author: sinanozdemir
-adapted from https://www.wakari.io/sharing/bundle/nkorf/MapReduce%20Example
-"""
+
 import re
 
+
+# this function should turn a string into a list of (word, 1)
 def mapper(line, queue = None):
     result = []
     # remove leading and trailing whitespace
@@ -35,6 +32,12 @@ def reducer(key, values):
 
 # the shuffle function gathers up the like key words
 # once it gathers them up, it calls the reduce function!
+# I have sorted everything by key for you
+# run through the words one by one and create a dictionary
+# where the word is the key and the value is the total count
+# this is essentially a rehashed Counter but our own :)
+# You can print out the results instead of returning them
+# As long as the count is clear
 def shuffle(words):
     # sorting the words
     sorted_keys = sorted(words)
