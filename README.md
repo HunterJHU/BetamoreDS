@@ -59,7 +59,7 @@ Class 3: Topics in Unsupervised Learning Pt. 1:
 
 
 
-Class 4: Topics in Unsupervised Learning Pt. 2 + Databases Pt. 1:
+Class 4: Topics in Unsupervised Learning Pt. 2 + Databases:
 =================================================================
 *	Class 4 Notes: [slides](https://github.com/HunterUSF/BetamoreDS/blob/master/lecturenotes/DS_lecture4.pdf)
 *	Principal component analysis for Iris [code](https://github.com/HunterUSF/BetamoreDS/blob/master/code/iris_pca.py)
@@ -74,18 +74,25 @@ Class 4: Topics in Unsupervised Learning Pt. 2 + Databases Pt. 1:
 *	Practice SQL from [browser](http://www.w3schools.com/sql/trysql.asp?filename=trysql_select_all)
 *	Queries [explained](http://www.sqlite.org/queryplanner.html)
 *	Work with databases in the context of machine learning [code](https://github.com/HunterUSF/BetamoreDS/blob/master/code/db_practice.py), [solutions](https://github.com/HunterUSF/BetamoreDS/blob/master/code/db_solutions.py)
-
-
-
-
-Class 5: Natural Language Processing + Databases Pt. 2:
-=======================================================
 *	SQL [notebook](https://github.com/HunterUSF/BetamoreDS/blob/master/notebooks/sql.ipynb)
 *	NoSQL/MapReduce [notebook](https://github.com/HunterUSF/BetamoreDS/blob/master/notebooks/nosql.ipynb)
 *	Here's a [reading](https://github.com/HunterUSF/BetamoreDS/blob/master/projects/planforspam.md) by PaulGraham, cofounder of Y-combinator.
 
 
-Class 6: Neural Networks + Recommendation Engines:
+Class 5: Natural Language Processing + Filtering:
+=======================================================
+*	Class 5 notes: [slides](https://github.com/HunterUSF/BetamoreDS/blob/master/lecturenotes/DS_lecture5.pdf)
+*	Text-mining [notebook](https://github.com/HunterUSF/BetamoreDS/blob/master/notebooks/text_nltk.ipynb)
+*	NLP [code](https://github.com/HunterUSF/BetamoreDS/blob/master/code/nlp.py)
+*	Small NLP lab [code](https://github.com/HunterUSF/BetamoreDS/blob/master/code/nlplab.py)
+*	Recommendation [code](https://github.com/HunterUSF/BetamoreDS/blob/master/code/recommendation.py)
+*	[Netflix Prize](http://www.netflixprize.com/)
+*	Why Netflix never implemented the winning solution [here](https://www.techdirt.com/blog/innovation/articles/20120409/03412518422/why-netflix-never-implemented-algorithm-that-won-netflix-1-million-challenge.shtml)
+
+
+
+
+Class 6: Neural Networks + Course Recap:
 ==================================================
 
 
