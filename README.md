@@ -90,7 +90,7 @@ Class 5: Natural Language Processing + Filtering:
 *	Why Netflix never implemented the winning solution [here](https://www.techdirt.com/blog/innovation/articles/20120409/03412518422/why-netflix-never-implemented-algorithm-that-won-netflix-1-million-challenge.shtml)
 *	Columbia's MOOC on NLP [here](https://www.coursera.org/course/nlangp)
 *	[Link](http://www.cs.jhu.edu/~jason/465/) to Dr. Eisner's NLP course at Hopkins
-
+*	[Spacy](https://spacy.io/) as a framework for production-ready NLP tools
 
 
 
