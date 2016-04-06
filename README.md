@@ -95,7 +95,7 @@ Class 5: Natural Language Processing + Filtering:
 
 Class 6: Neural Networks + Computing Infrastructures:
 =====================================================
-*	Class 6 notes: [slides]()
+*	Class 6 notes: [slides](https://github.com/HunterUSF/BetamoreDS/blob/master/lecturenotes/DS_lecture6.pdf)
 *	Using Pybrain to create a neural network [code](https://github.com/HunterUSF/BetamoreDS/blob/master/code/pybrain_nn.py)
 *	Building our own neural network from scratch [code](https://github.com/HunterUSF/BetamoreDS/blob/master/code/nn.py)
 *	Check out Google's Deep Dream Generator [here](http://deepdreamgenerator.com/)
@@ -105,7 +105,7 @@ Class 6: Neural Networks + Computing Infrastructures:
 *	Get yourself set up with EC2 [here](http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/get-set-up-for-amazon-ec2.html)
 *	[Tensorflow](https://www.tensorflow.org/) because everything Google becomes the default eventually
 *	Installing tensorflow on AWS EC2 with GPU support [here](http://ramhiser.com/2016/01/05/installing-tensorflow-on-an-aws-ec2-instance-with-gpu-support/)
-*	
+
 
 
 Course Recap + Next Steps:
