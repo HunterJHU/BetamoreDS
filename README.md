@@ -45,7 +45,7 @@ Class 2: Machine Learning 101 + Model Evaluation:
 *	Take home [project](https://github.com/HunterUSF/BetamoreDS/blob/master/projects/titanic.md) and [solutions](https://github.com/HunterUSF/BetamoreDS/blob/master/code/titanic_solutions.py) for predicting survival on the Titanic.
 
 
-Class 3: Topics in Unsupervised Learning Pt. 1:
+Class 3: Unsupervised Learning Pt. 1:
 ===============================================
 *	Class 3 Notes: [slides](https://github.com/HunterUSF/BetamoreDS/blob/master/lecturenotes/DS_lecture3.pdf)
 *	Cluster analysis [code](https://github.com/HunterUSF/BetamoreDS/blob/master/code/clusteranalysis.py)
@@ -59,7 +59,7 @@ Class 3: Topics in Unsupervised Learning Pt. 1:
 
 
 
-Class 4: Topics in Unsupervised Learning Pt. 2 + Databases:
+Class 4: Unsupervised Learning Pt. 2 + Databases:
 =================================================================
 *	Class 4 Notes: [slides](https://github.com/HunterUSF/BetamoreDS/blob/master/lecturenotes/DS_lecture4.pdf)
 *	Principal component analysis for Iris [code](https://github.com/HunterUSF/BetamoreDS/blob/master/code/iris_pca.py)
@@ -93,9 +93,29 @@ Class 5: Natural Language Processing + Filtering:
 *	[Spacy](https://spacy.io/) as a framework for production-ready NLP tools
 
 
+Class 6: Neural Networks + Computing Infrastructures:
+=====================================================
+*	Class 6 notes: [slides]()
+*	Using Pybrain to create a neural network [code](https://github.com/HunterUSF/BetamoreDS/blob/master/code/pybrain_nn.py)
+*	Building our own neural network from scratch [code](https://github.com/HunterUSF/BetamoreDS/blob/master/code/nn.py)
+*	Check out Google's Deep Dream Generator [here](http://deepdreamgenerator.com/)
+*	Why the hell does Google's DDG hallucinate in dog faces?! [here](http://www.fastcodesign.com/3048941/why-googles-deep-dream-ai-hallucinates-in-dog-faces)
+*	Step-by-step [backpropagation](http://home.agh.edu.pl/~vlsi/AI/backp_t_en/backprop.html)
+*	Understanding activation [functions](http://math.stackexchange.com/questions/78575/derivative-of-sigmoid-function-sigma-x-frac11e-x)
+*	Get yourself set up with EC2 [here](http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/get-set-up-for-amazon-ec2.html)
+*	[Tensorflow](https://www.tensorflow.org/) because everything Google becomes the default eventually
+*	Installing tensorflow on AWS EC2 with GPU support [here](http://ramhiser.com/2016/01/05/installing-tensorflow-on-an-aws-ec2-instance-with-gpu-support/)
+*	
 
-Class 6: Neural Networks + Course Recap:
-==================================================
+
+Course Recap + Next Steps:
+==========================
+*	Course Recap notes: [slides](https://github.com/HunterUSF/BetamoreDS/blob/master/lecturenotes/DS_courserecap.pdf)
+*	Tons of additional resources [here](https://github.com/HunterUSF/BetamoreDS/blob/master/projects/additional_resources.md)
+*	Always stay up to date on [kaggle](https://www.kaggle.com/)
+*	Try implementing some of our models from scratch like Joel does [here](https://github.com/joelgrus/data-science-from-scratch)
+*	***Stay tuned at [betamore](https://betamore.com/) for the next data science class!***
+*	***Thank you all so much for this wonderful experience, I had a blast and very much hope you all did as well!***
 
 
 
